@@ -1,0 +1,16 @@
+# Node.js
+/node_modules
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+/jspm_packages/
+/bower_components/
+
+# IDEs and editors
+/.idea
+/.vscode
+*.sublime-project
+*.sublime-workspace
